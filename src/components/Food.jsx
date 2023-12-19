@@ -5,7 +5,7 @@ function Food(){
     const food2 = "Spagiti"
 
     return(
-        <ul className="main_content">
+        <ul className="main-content">
             <li>Apple</li>
             <li>{food1}</li>
             <li>{food2.toUpperCase()}</li>

@@ -81,7 +81,7 @@ nav > ul {
   padding-left: 0;
 }
 
-.main_content {
+.main-content {
   display: flex;
   gap: 18px;
   list-style: none;
