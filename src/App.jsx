@@ -1,7 +1,4 @@
-
-import Header from "./components/Header.jsx"
-import Footer from "./components/Footer.jsx"
-import Food from "./components/Food.jsx"
+import { Header, Footer, Food } from "./components"
 
 function App() {
   return(
